@@ -1,3 +1,6 @@
+
+#Made with love by Pratik
+
 from tkinter import*
 import time
 import datetime
